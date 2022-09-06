@@ -1,0 +1,5 @@
+.product_page_wrapper {
+    display: grid;
+    grid-template-columns: 1fr 1002px 1fr;
+    gap: 1rem;
+}
